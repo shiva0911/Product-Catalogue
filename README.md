@@ -286,11 +286,12 @@ Body: Updated product with ratings array
         }
     ]
 }
-# Database Structure
-![image](https://github.com/shiva0911/ProductCatalogue/assets/78194961/c758b56a-6e92-440a-a0df-1058599cbc5a)
+# Database Structure![Screenshot (49)](https://github.com/shiva0911/Product-Catalogue/assets/78194961/2dead6ac-ed64-4bb5-ad9b-a9b70b90d240)
+
 
 # Api testing using Postman
 
-![image](https://github.com/shiva0911/ProductCatalogue/assets/78194961/dfb3cb22-1c71-4dc2-9718-052bc64e9ebe)
+![image]![Screenshot (50)](https://github.com/shiva0911/Product-Catalogue/assets/78194961/8be2f21b-e6e5-4a22-a4c2-4e6f91103c6c)
+
 
 
